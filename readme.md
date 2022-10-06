@@ -1,5 +1,5 @@
 
-# Diabetes Indicators in Pima Indian and German (Dutch) Women
+# Capstone: Diabetes Indicators in Pima Indian and German (Dutch) Women
 ## by Debbie Pappas
 
 
